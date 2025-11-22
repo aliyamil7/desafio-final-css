@@ -22,6 +22,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-image: url(./img/puntitos.png);
 }
 
 .nav {
@@ -45,6 +46,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-image: url(./img/puntitos.png);
   }
 
   .nav {
@@ -81,6 +83,7 @@ body {
   align-items: center;
   text-align: center;
   gap: 58px;
+  background-image: url(./img/puntitos.png);
 }
 
 .hero__welcome {
@@ -104,6 +107,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    background-image: url(./img/puntitos.png);
   }
 
   .hero__imagen-marce {
@@ -311,6 +315,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   padding-left: 15px;
+  background-color: #dbdbdb;
 }
 
 .footer__logos {
@@ -345,5 +350,6 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0 80px;
+    background-image: url(./img/puntitos.png);
   }
 }
