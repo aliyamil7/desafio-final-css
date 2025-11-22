@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "pnpm exec gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
